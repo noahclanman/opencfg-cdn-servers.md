@@ -27,7 +27,9 @@ $ CDN Server List
          > find the multiplexer inbound and choose ws or xhttp then edit,
            > replace port to 443, set tls,
              > xhttp-alpn: h2, xhttp-alpn: http/1.1,
-               > allowinsecure true or false { set true for sni trick }
+               > allowinsecure true or false { set true for sni trick 
+
+$ make sure that you create an account via v2ray-vless in opencfg.xyz
 
 ```
 
